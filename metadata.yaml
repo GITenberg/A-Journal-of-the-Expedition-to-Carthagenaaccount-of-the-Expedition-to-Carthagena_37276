@@ -20,6 +20,8 @@ covers:
 description: 'From Library of Congress catalog record: "Sometimes erroneously attributed
   to Tobias Smollett and sometimes to General Wentworth who was in command of the
   land forces."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37276#A-Journal-of-the-Expedition-to-Carthagenaaccount-of-the-Expedition-to-Carthagena
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-08-31'
 gutenberg_type: Text
