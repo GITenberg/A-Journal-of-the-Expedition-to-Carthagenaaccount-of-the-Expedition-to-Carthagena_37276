@@ -1,0 +1,38 @@
+_repo: A-Journal-of-the-Expedition-to-Carthagenaaccount-of-the-Expedition-to-Carthagena_37276
+_version: 0.1.0
+contributor:
+  dubious_authors:
+  - agent_name: Wentworth, Thomas, active 1741
+    gutenberg_agent_id: '43383'
+    url: http://www.gutenberg.org/2009/agents/43383
+  - agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: 'From Library of Congress catalog record: "Sometimes erroneously attributed
+  to Tobias Smollett and sometimes to General Wentworth who was in command of the
+  land forces."'
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37276'
+  lccn: 01024096
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cartagena (Colombia) -- History -- Siege, 1741'
+- !lcc 'F2251'
+title: "A Journal of the Expedition to Carthagena, with Notes\r\nIn Answer to a Late\
+  \ Pamphlet Entitled, An account of the Expedition to Carthagena"
+url: http://www.gutenberg.org/ebooks/37276
